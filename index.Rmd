@@ -1,0 +1,32 @@
+---
+title: "Activity 1"
+author: "ian (me)"
+date: "4/23/2020"
+output: html_document
+---
+
+####### I KNOW HOW TO MAKE A WEBSITE!!!!!!!!!!!!!!!
+
+# Class Reflection
+Here are some of the things that have been the *most useful aspects* of this class:
+
+1. Programming in R
+    - It was hard to learn but will be useful later on
+2. Webscraping
+    - Seems like there are a lot of things I can do with this
+3. Learning about what Political Science really is
+
+There are just some of the many things I have learned
+
+
+# Activity 2
+
+[The website for class](http://politicaldatascience.com/)
+
+[A nice picture to look at](http://politicaldatascience.com/PDS/Slides/Images/image2.png)
+
+# Here are some tweets
+```{r, warning=F, fig.height=2.5, fig.width=2.5}
+library(fivethirtyeight)
+trump_twitter$text[7:10]
+```
