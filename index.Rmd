@@ -5,7 +5,7 @@ date: "4/23/2020"
 output: html_document
 ---
 
-####### I KNOW HOW TO MAKE A WEBSITE!!!!!!!!!!!!!!!
+# *I KNOW HOW TO MAKE A WEBSITE!!!!!!!!!!!!!!!*
 
 # Class Reflection
 Here are some of the things that have been the *most useful aspects* of this class:
